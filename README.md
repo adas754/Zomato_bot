@@ -4,22 +4,4 @@
 ## documentation link: https://docs.chainlit.io/get-started/overview
 
 
-```
-pip install chainlit
-
-```
-
-
-```
- git init
-    2  conda create -p env python=3.8 
-    3  source activate base
-    4  clear
-    5  bash init_setup.sh
-    6  source activate ./venv
-    7  clear
-    8  pip list
-    9  clear
-   10  touch .gitignore
-   11  history
-```
+# ![Screenshot (62)](https://github.com/adas754/Zomato_bot/assets/83580623/8ed3c381-5694-4472-aa0b-ea18b1e7383a)
